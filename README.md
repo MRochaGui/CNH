@@ -18,4 +18,4 @@ Imprimir mensagem reprovado.
 
 fim
 
-![image](https://user-images.githubusercontent.com/103973445/169870200-4492c510-b88c-4857-ac47-06cc4201bccc.png)
+![image](https://user-images.githubusercontent.com/103973445/169873825-8e3724a5-e139-487c-bdbd-02090b76de6b.png)
